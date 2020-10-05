@@ -8,7 +8,9 @@ I used two images as flex items by making the card a flex container.
 
 I tried to set a '%' height for the images, but that did not seem to work.  
 
-After playing with about four different copies of this assignment, I learned a lot more about making layouts with flexbox, and keeping text from breaking out of a container. But adding and styling images still remains a challenge. 
+After playing with about four different copies of this assignment, I learned a lot more about making layouts with flexbox, and keeping text from breaking out of a container. But adding and styling images still remains a challenge.   
+
+Watched a few minutes of this video: https://www.youtube.com/watch?v=GWE9ay9H7uU to get some ideas. 
 
 
 
